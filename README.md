@@ -27,7 +27,8 @@ To run this project locally, follow these steps:
 - This template can be used on any website to display customer testimonials, helping to build trust and credibility.
 
 Example layout:
-![Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/8a854653-ff76-4454-8612-3b586fac6738)
+
 
 ## Features
 - **Responsive Design**: The layout adapts to various screen sizes.
